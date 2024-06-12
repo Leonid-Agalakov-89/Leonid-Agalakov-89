@@ -2,17 +2,18 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&center=true&random=false&width=800&lines=Python+backend+developer.+;Stack%3A+Python%2C+Django%2C+DRF%2C+Flask." alt="Typing SVG" /></a>
 
-<!--
-**Leonid-Agalakov-89/Leonid-Agalakov-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Technologies:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
-Here are some ideas to get you started:
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github-g?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/github_action-g?style=for-the-badge&logo=github%20actions&logoColor=blue&labelColor=white&color=white)
