@@ -29,5 +29,6 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Leonid_Agalakov) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Leonid_Agalakov)
 [![GitHub](https://img.shields.io/badge/-GitHub-424242?style=for-the-badge&logo=github&labelColor=1b1b1b&logoColor=white)](https://github.com/Leonid-Agalakov-89)
+[![leon.agalakov@gmail.com](https://img.shields.io/badge/-leon.agalakov@gmail.com-c62828?style=for-the-badge&logo=gmail&labelColor=8e0000&logoColor=white)](mailto:leon.agalakov@gmail.com)
