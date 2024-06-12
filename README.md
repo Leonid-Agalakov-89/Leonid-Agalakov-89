@@ -25,7 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/github-g?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/github_action-g?style=for-the-badge&logo=github%20actions&logoColor=blue&labelColor=white&color=white)
 
-## Personal Information
+## 📫 Personal Information:
 
 <div align="center">
 
