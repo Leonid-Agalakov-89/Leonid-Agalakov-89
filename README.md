@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Леонид<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет, меня зовут Леонид! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&center=true&random=false&width=800&lines=Python+backend+developer.+;Stack%3A+Python%2C+Django%2C+DRF%2C+Flask." alt="Typing SVG" /></a>
 
