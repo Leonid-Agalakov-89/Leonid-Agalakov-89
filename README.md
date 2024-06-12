@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут Леонид! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&center=true&random=false&width=800&lines=Python+backend+developer.+;Stack%3A+Python%2C+Django%2C+DRF%2C+Flask." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&center=true&random=false&width=800&lines=Python+backend+developer." alt="Typing SVG" /></a>
 
 ## 🛠 Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
