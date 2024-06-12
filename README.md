@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Леонид 👋</h1>
+<h1 align="center">Привет, меня зовут Леонид<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python backend developer</h3>
 
 <!--
