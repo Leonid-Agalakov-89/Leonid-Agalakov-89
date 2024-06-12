@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Привет, меня зовут Леонид 👋</h1>
+<h3 align="center">Python backend developer</h3>
 
 <!--
 **Leonid-Agalakov-89/Leonid-Agalakov-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
