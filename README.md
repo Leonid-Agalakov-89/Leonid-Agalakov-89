@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут Леонид<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+backend+developer)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+backend+developer)](https://git.io/typing-svg)
 
 <!--
 **Leonid-Agalakov-89/Leonid-Agalakov-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
